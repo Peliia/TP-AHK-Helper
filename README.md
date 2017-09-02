@@ -7,7 +7,7 @@ This is a script written in AutoHotkey that is able to speed up and/or ease typi
 - Quickly open Expert Profile and Bomb Log folders
 - Features hotstrings for alternative input
 
-++Because this script is written in AHK, it will only work in Windows-based systems.++
+Because this script is written in AHK, it will only work in Windows-based systems.
 
 ## How To Use
 Detailed list of commands and their input is shown when executing the script, and can be called again by pressing Ctrl-F1. The script can be (and should be) made to disregard your keystrokes by pressing Ctrl-H, Ctrl-X terminates the script completely. All inputs triggering the script are intercepted; the system does not see them.
