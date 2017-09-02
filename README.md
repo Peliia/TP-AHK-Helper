@@ -18,5 +18,10 @@ The script offers *hotstrings* as an alternative to hotkeys. Simply type the key
 
 The script triggers type the TP commands indiscriminantly, whereever your text cursor is pointing. Make sure to have your text input focus on the Twitch Chat window.
 
+## Download
+The script is also available as a stand-alone binary file. Its capabilities are the same as the script on its own, but the system does not need to install the AHK runtime libraries.
+
+[Download Here](https://github.com/Peliia/tp-ahk-helper/blob/master/KTaNE%20TP%20Helper.exe?raw=true)
+
 ## Feedback
 Feel free to leave feedback about your experiences, bugs, or suggestions on the repository Issue page. Alternatively, I am available on the official [KTANE Discord server](https://discord.gg/Fv7YEDj) as @Pelia.
